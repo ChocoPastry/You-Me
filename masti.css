@@ -1,0 +1,74 @@
+.container {
+    width: 100vw;
+    background-color: #121212;
+}
+
+h1 {
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+}
+
+
+.penfrog {
+    background-color: orange;
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.heading {
+    background-color: orange;
+    align-self: center;
+    width: 450px;
+    padding: 4px;
+    color: grey;
+}
+
+.img1 {
+    width: 400px;
+    height: 400px;
+    min-width: 350px;
+}
+
+p {
+    font-size: large;
+    padding: 3px;
+    text-align: justify;
+    color: white;
+}
+
+.market {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.heading1 {
+    align-self: center;
+    width: 450px;
+    padding: 4px;
+    color: yellow;
+}
+
+#cool {
+    font-size: 30px;
+    text-align: justify;
+}
+
+.us {
+    background-color: orange;
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
